@@ -13,6 +13,7 @@
 ###### Messaging
 
 -   Small composer UI tweaks - maxim
+-   Changes post-sale supplementary artwork info - ash
 
 ### 1.4.0-beta.3
 
